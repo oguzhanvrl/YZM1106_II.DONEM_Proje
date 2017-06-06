@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1495830773 source:c:\users\monster\desktop\yazılım Örnekler\c\ödev\1-odev\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1495829137 source:c:\users\monster\desktop\yazılım Örnekler\c\ödev\2-odev\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+
